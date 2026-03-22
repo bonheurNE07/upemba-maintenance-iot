@@ -1,3 +1,6 @@
 [submodule "upemba-backend"]
 	path = upemba-backend
 	url = https://github.com/bonheurNE07/upemba-backend.git
+[submodule "upemba-frontend"]
+	path = upemba-frontend
+	url = git@github.com:bonheurNE07/upemba-frontend.git
